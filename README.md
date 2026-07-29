@@ -1,42 +1,45 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=B%20Harsha%20Vardhan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+# 👋 Hi, I'm B Harshavardhan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+B+Harsha+Vardhan;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Technologies🚀"/>
+### 💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Bhv1122&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Bhv1122?style=for-the-badge&logo=github&color=181717"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Bhv1122&style=for-the-badge&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/Bhv1122?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-🎓 **Computer Science Engineering Student**
+🎓 Computer Science Engineering Student
 
-💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
 
-🚀 I enjoy building real-world applications that solve meaningful problems through technology.
+💡 I enjoy building real-world applications that solve meaningful problems.
 
-🌱 **Currently Learning**
+### 🌱 Currently Learning
+
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Flask
 - MongoDB
 
-💡 **Areas of Interest**
+### 💼 Interests
+
 - 🤖 Artificial Intelligence
 - 🌐 Full Stack Development
 - 📊 Data Structures & Algorithms
 - 👁️ Computer Vision
 - ☁️ Cloud Computing
 
-📫 **Email:** **b.harshavardhan.1604@gmail.com**
+📧 **Email:** **b.harshavardhan.1604@gmail.com**
 
 ---
 
@@ -45,19 +48,15 @@
 <p align="center">
 
 <a href="mailto:b.harshavardhan.1604@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshavardhanb1604/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/Bhv1122">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -69,84 +68,84 @@
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
 </p>
 
 ### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🌟 Project | Description |
-|------------|-------------|
-| 🌾 Smart Irrigation Predictor | AI-powered irrigation recommendation system using environmental and crop data. |
-| 🎥 AI Video Search | Intelligent semantic video search powered by AI. |
-| 🚑 Emergency Service Locator | Fast emergency service finder using computational geometry algorithms. |
+| Project | Description |
+|---------|-------------|
+| 🌾 Smart Irrigation Predictor | AI-powered irrigation recommendation system |
+| 🎥 AI Video Search | Intelligent semantic video search |
+| 🚑 Emergency Service Locator | Computational Geometry based emergency locator |
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhv1122&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhv1122&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhv1122&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhv1122&layout=compact&theme=github_dark&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bhv1122&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Bhv1122&theme=github-dark-blue&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhv1122&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhv1122&theme=github-dark&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhv1122&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhv1122&theme=algolia&no-frame=true&row=2&column=4" />
 
-</div>
+</p>
 
 ---
 
@@ -154,15 +153,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MongoDB-success?style=for-the-badge&logo=mongodb"/>
 
 </p>
 
@@ -170,11 +169,7 @@
 
 # 💭 Quote
 
-<div align="center">
-
 > **"Turning ideas into intelligent solutions through code, creativity, and continuous learning."**
-
-</div>
 
 ---
 
@@ -182,8 +177,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,100:0F2027"/>
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
