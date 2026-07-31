@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am a Computer Science Engineering student passionate about building intelligent software and full-stack applications. I enjoy applying machine learning, computer vision, and cloud technologies to solve real-world problems.
+I am a Computer Science Engineering student passionate about building intelligent software and full-stack applications. I enjoy applying machine learning, computer vision, and cloud technologies to solve real-world problems and create impactful solutions.
 
 - 🎓 Student: Computer Science Engineering
 - 🌱 Currently learning: Artificial Intelligence, Machine Learning, Deep Learning, Flask, MongoDB, Data Structures & Algorithms
