@@ -4,17 +4,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=B%20Harshavardhan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+B+Harshavardhan;Computer+Science+Engineering+Student;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Python+Developer;Machine+Learning+Explorer;Always+Learning+New+Things🚀"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=B%20Harshavardhan&fontColor=ffffff&fontSize=48" alt="header"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Bhv1122&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+### Hi 👋, I'm B Harshavardhan
 
-<img src="https://img.shields.io/github/followers/Bhv1122?style=for-the-badge&logo=github&label=Followers"/>
+<br>
 
-<img src="https://img.shields.io/github/last-commit/Bhv1122/Bhv1122?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Bhv1122&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="profile views"/>
+
+<img src="https://img.shields.io/github/followers/Bhv1122?style=for-the-badge&logo=github&label=Followers" alt="followers"/>
+
+<img src="https://img.shields.io/github/last-commit/Bhv1122/Bhv1122?style=for-the-badge" alt="last commit"/>
 
 </div>
 
@@ -22,7 +24,7 @@
 
 # 👋 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 **Computer Science Engineering Student**
 
@@ -61,19 +63,19 @@
 <p align="center">
 
 <a href="mailto:b.harshavardhan.1604@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshavardhanb1604/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Bhv1122">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" alt="github"/>
 </a>
 
 </p>
@@ -86,15 +88,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" alt="python"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java" alt="java"/>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=c" alt="c"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="cpp"/>
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
 
 </p>
 
@@ -104,13 +106,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html"/>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css"/>
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react"/>
 
 </p>
 
@@ -120,9 +122,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=flask" alt="flask"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
 
 </p>
 
@@ -132,9 +134,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
 
 </p>
 
@@ -144,106 +146,29 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" alt="github"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
----
-
-# 🚀 Currently Exploring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="linux"/>
 
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
-<div align="center">
+- 🌾 Smart Irrigation Predictor — AI-powered irrigation recommendation system that analyzes soil moisture, weather, temperature, humidity and crop type. Tech: Python, Flask, MongoDB, Machine Learning.
 
-<table>
-<tr>
+- 🎥 AI Video Search — Semantic video search platform with smart search and AI recommendations. Tech: Python, Flask, HTML, CSS.
 
-<td width="33%" valign="top">
-
-### 🌾 Smart Irrigation Predictor
-
-AI-powered irrigation recommendation system that analyzes:
-
-- 🌱 Soil Moisture
-- 🌦️ Weather Conditions
-- 🌡️ Temperature
-- 💧 Humidity
-- 🌾 Crop Type
-
-**Tech Stack**
-
-`Python` `Flask` `MongoDB` `Machine Learning`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎥 AI Video Search
-
-An intelligent semantic video search platform that allows users to search videos using AI-powered understanding.
-
-**Features**
-
-- 🔍 Smart Search
-- 🤖 AI Recommendations
-- 🎬 Fast Retrieval
-- 📂 Organized Results
-
-**Tech Stack**
-
-`Python` `Flask` `HTML` `CSS`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚑 Emergency Service Locator
-
-Finds the nearest emergency services using Computational Geometry.
-
-**Features**
-
-- 📍 Nearest Hospital
-- 🚒 Fire Station Locator
-- 🚓 Police Locator
-- ⚡ Fast Response
-
-**Algorithm**
-
-Closest Pair of Points
-
-</td>
-
-</tr>
-</table>
-
-</div>
+- 🚑 Emergency Service Locator — Finds nearest emergency services using computational geometry (closest pair). Tech/Algorithm: Closest Pair of Points.
 
 ---
 
@@ -251,11 +176,11 @@ Closest Pair of Points
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Certified-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Certified-success?style=for-the-badge" alt="NPTEL"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge" alt="open source"/>
 
-<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge" alt="learner"/>
 
 </p>
 
@@ -278,13 +203,11 @@ Closest Pair of Points
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhv1122&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhv1122&theme=tokyo-night&hide_border=true" alt="contribution graph"/>
 
 </div>
 
@@ -294,7 +217,7 @@ Closest Pair of Points
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhv1122&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhv1122&theme=algolia&no-frame=true&row=2&column=4" alt="trophies"/>
 
 </div>
 
@@ -319,6 +242,7 @@ Closest Pair of Points
 - 🚀 I believe consistency beats perfection.
 
 ---
+
 # 🐍 Contribution Snake
 
 > **Note:** This animation requires a GitHub Action to generate. Until you set it up, this image may not appear.
@@ -355,15 +279,15 @@ Closest Pair of Points
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Problem%20Solver-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-0A66C2?style=for-the-badge" alt="problem solver"/>
 
-<img src="https://img.shields.io/badge/Quick%20Learner-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quick%20Learner-success?style=for-the-badge" alt="quick learner"/>
 
-<img src="https://img.shields.io/badge/Team%20Player-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20Player-orange?style=for-the-badge" alt="team player"/>
 
-<img src="https://img.shields.io/badge/Innovation-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovation-purple?style=for-the-badge" alt="innovation"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-black?style=for-the-badge" alt="open source"/>
 
 </p>
 
@@ -374,15 +298,15 @@ Closest Pair of Points
 <div align="center">
 
 <a href="mailto:b.harshavardhan.1604@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshavardhanb1604/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 <a href="https://github.com/Bhv1122">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
 </div>
@@ -395,14 +319,12 @@ Closest Pair of Points
 
 ### ⭐ If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!+💙;Keep+Learning+Keep+Building!+🚀"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="footer"/>
 
 </div>
